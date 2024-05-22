@@ -1,0 +1,11 @@
+{
+  "name": "@pietgk/playground",
+  "version": "0.1.0",
+  "description": "play with code in your development context",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piet Groot Kormelink",
+  "license": "Apache 2.0"
+}
