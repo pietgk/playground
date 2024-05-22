@@ -1,6 +1,6 @@
 {
   "name": "@pietgk/playground",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "play with code in your development context",
   "main": "index.ts",
   "scripts": {
